@@ -1,0 +1,26 @@
+[
+    {
+        "id":"yo2ng",
+        "ImageUrl": "./image2/item3.jpg ",
+        "title": "Quần Jogger KAKI xanh rêu ",
+        "gia": "199.000 Đ"
+    },
+    {
+        "id":"tyqz0",
+        "ImageUrl": "./image2/item5.jpg ",
+        "title": "Quần Đũi xuông ",
+        "gia": "199.000 Đ"
+    },
+    {
+        "id"="113y8c",
+        "ImageUrl": "./image2/item6.jpg  ",
+        "title": "Quần Jogger kaki ",
+        "gia": "199.000 Đ"
+    },
+    {
+        "id"="lmoi4",
+        "ImageUrl": "./image2/item7.jpg  ",
+        "title": "Quần Jogger KAKI Trắng  ",
+        "gia": "199.000 Đ"
+    }
+]
